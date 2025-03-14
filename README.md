@@ -1,1 +1,1 @@
-# Brainwave_Matrix_Intern
+Developed a comprehensive Library Management System to streamline book tracking, member management, and inventory control. This user-friendly solution enhances efficiency and accessibility for libraries of all sizes.
